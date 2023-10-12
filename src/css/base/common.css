@@ -2,16 +2,6 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-  font-family: 'Manrope', sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-
-  color: var(--white);
-  background-color: var(--dark);
-}
-
-
 h1,
 h2,
 h3,

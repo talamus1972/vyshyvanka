@@ -1,11 +1,8 @@
-/* BASE */
 @import url('./base/common.css');
 @import url('./base/container.css');
 
-/* VARIABLES */
 @import url('./utils/variables.css');
 
-/* LAYOUT */
 @import url('./layout/header.css');
 @import url('./layout/hero.css');
 @import url('./layout/about-us.css');
@@ -13,6 +10,4 @@
 @import url('./layout/your-order.css');
 @import url('./layout/testimonials.css');
 @import url('./layout/footer.css');
-
-/* MODAL WINDOW */
-@import url(./layout/modal-window.css);
+@import url(./layout/mobile-window.css);
